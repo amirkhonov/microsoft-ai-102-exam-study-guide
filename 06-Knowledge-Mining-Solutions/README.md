@@ -41,7 +41,7 @@ This domain covers building knowledge mining and information extraction solution
 - **Create an OCR pipeline to extract text from images and documents**: [Content extraction in Content Understanding](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview), [OCR pipeline creation](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/tutorial/build-rag-solution)
 - **Summarize, classify, and detect attributes of documents**: [Field extraction in Content Understanding](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview), [Document analysis](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/document/overview)
 - **Extract entities, tables, and images from documents**: [Content extraction capabilities](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview), [Entity extraction](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/document/overview)
-- **Process and ingest documents, images, videos, and audio with Azure AI Content Understanding**: [Multimodal content extraction](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview), [Content Understanding capabilities](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview)
+- **Process and ingest documents, images, videos, and audio with Azure AI Content Understanding**: [Create a multimodal analysis solution with Azure AI Content Understanding](https://learn.microsoft.com/en-us/training/modules/analyze-content-ai/), [Content Understanding capabilities](https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/overview)
 
 ## 🛠️ Hands-on Learning
 
